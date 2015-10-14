@@ -31,3 +31,12 @@ Doncs un calendari, potser canviare el nom. Actualitzable i demes.
 Like Dwarf Fortress, pero al meu estil. </b>
 Explicació, per a humans</b>
 Like online, que es el gran tema que opino que li fa falta.
+
+Ele
+---
+Un sistema d'emular un sistema electric.
+
+Compiler
+--------
+Crear un compilador like Flowchart, on aquest podrà fer zoom.</b>
+El enomenat zoom el que fara serà de l'ordre de que pots controlar a groso modo, a nivell més baix, fins a nivell elètric i ensamblador si vols.
